@@ -1,9 +1,17 @@
 ---
 layout: page
-title: About Me
+title: About Our Team
 permalink: /about/
 ---
 
-A Fastpages clone, for CSA - Tirth Thakkar & Haseeb Beg
+<<<<<<< HEAD
+- Scrum Master: Ian Wu
+- Front End: Trevor Huang, Jason Guan
+- Back End: Kyle Liang
+
+
+=======
+:D
+>>>>>>> 301a8c703f21a7afea8b7dd1c8bf816bf7f87585
 
 

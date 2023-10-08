@@ -2,7 +2,7 @@
 layout: home
 search_exclude: true
 ---
-A modified blog for CSA Based on Fastpages- Tirth Thakkar & Haseeb Beg   
+An image modifier made by Ian Wu, Kyle Liang, Jason Guan, and Trevor Huang
 
 
 
